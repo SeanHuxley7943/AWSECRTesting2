@@ -1,0 +1,19 @@
+{
+  "name": "awsecrtesting2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanHuxley7943/AWSECRTesting2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanHuxley7943/AWSECRTesting2/issues"
+  },
+  "homepage": "https://github.com/SeanHuxley7943/AWSECRTesting2#readme"
+}
